@@ -1,0 +1,1 @@
+Aplicativo para trabajar con 5 algoritmos de Análisis Numérico definidos así: Uno para soluciones de sistemas de ecuaciones lineales y 4 para soluciones de ecuaciones no lineales. Los cuales son Jacobi, y por otro lado Bisección, Falsa Posición, Punto Fijo y Newton-Raphson.
